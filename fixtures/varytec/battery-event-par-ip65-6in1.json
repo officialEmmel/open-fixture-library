@@ -78,11 +78,6 @@
         "type": "Intensity"
       }
     },
-    "Sound Sensitivity": {
-      "capability": {
-        "type": "Generic"
-      }
-    },
     "Selecting an automatic show": {
       "capabilities": [
         {
